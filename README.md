@@ -1,4 +1,4 @@
-### Hi, I'm Kenneth!
+## Hi, I'm Kenneth!
 
 I am a
 - ⚛ physicist
@@ -8,3 +8,5 @@ I am a
 - 🎸 musician
 
 For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
+
+Portfolio: [kvdomingo.xyz](https://kvdomingo.xyz)
