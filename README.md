@@ -12,4 +12,5 @@ I am a
 For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
 Portfolio: [kvdomingo.xyz](https://kvdomingo.xyz)
+
 LinkedIn: [linkedin.com/in/kvdomingo](https://linkedin.com/in/kvdomingo)
