@@ -1,4 +1,4 @@
-![Cover photo](https://res.cloudinary.com/kdphotography-assets/image/upload/c_fill,ar_2.39,r_20/v1/kdphotography/portfolio/static/portfolio/media-private/latest/20190407_1.jpg)
+![Cover photo](https://res.cloudinary.com/kdphotography-assets/image/upload/c_fill,ar_2.39,r_6/v1/kdphotography/portfolio/static/portfolio/media-private/latest/20190407_1.jpg)
 
 # Hi, I'm Kenneth!
 
