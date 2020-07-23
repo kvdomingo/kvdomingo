@@ -2,8 +2,8 @@
 
 # Hi, I'm Kenneth!
 
-I am a
-- ⚛ physicist
+I am a/an
+- ⚛ applied physicist
 - 🌐 full stack web developer
 - 🧬 bioinformatician
 - 📷 photographer
