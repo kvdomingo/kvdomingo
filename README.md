@@ -11,6 +11,7 @@ I am a/an
 
 For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
-Portfolio: [kvdomingo.xyz](https://kvdomingo.xyz)
-
-LinkedIn: [linkedin.com/in/kvdomingo](https://linkedin.com/in/kvdomingo)
+### Links:
+- [Portfolio](https://kvdomingo.xyz)
+- [LinkedIn](https://linkedin.com/in/kvdomingo)
+- [HackerRank](https://www.hackerrank.com/kvdomingo)
