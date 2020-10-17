@@ -3,9 +3,8 @@
 # Hi, I'm Kenneth!
 
 I am a/an
+- 🌐 software developer
 - ⚛ applied physicist
-- 🌐 full stack web developer
-- 🧬 bioinformatician
 - 📷 photographer
 - 🎸 musician
 
