@@ -3,7 +3,7 @@
 # Hi, I'm Kenneth!
 
 I am a/an
-- 🌐 software developer
+- 💻 software developer
 - ⚛ applied physicist
 - 📷 photographer
 - 🎸 musician
