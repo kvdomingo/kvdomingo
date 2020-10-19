@@ -15,6 +15,6 @@ For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 [![Top Langs](https://github-readme-stats.kvdomingo.vercel.app/api/top-langs/?username=kvdomingo&hide=jupyter%20notebook,tex&langs_count=7&layout=compact)](https://github.com/kvdomingo/github-readme-stats)
 
 ### Links:
-- [Portfolio](https://kvdomingo.xyz)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-kvdomingo-informational.svg)](https://linkedin.com/in/kvdomingo)
-- [HackerRank](https://www.hackerrank.com/kvdomingo)
+[![Portfolio](https://img.shields.io/badge/portfolio-kvdomingo.xyz-black.svg?style=for-the-badge)](https://kvdomingo.xyz)
+[![LinkedIn](https://img.shields.io/badge/linkedin-kvdomingo-informational.svg?style=for-the-badge)](https://linkedin.com/in/kvdomingo)
+[HackerRank](https://www.hackerrank.com/kvdomingo)
