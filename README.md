@@ -12,7 +12,7 @@ For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
 [![Kenneth's github stats](https://github-readme-stats.vercel.app/api?username=kvdomingo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvdomingo&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvdomingo&hide=notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links:
 - [Portfolio](https://kvdomingo.xyz)
