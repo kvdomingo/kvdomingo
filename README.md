@@ -16,5 +16,5 @@ For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
 ### Links:
 - [Portfolio](https://kvdomingo.xyz)
-- [LinkedIn](https://linkedin.com/in/kvdomingo)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-kvdomingo-informational.svg)](https://linkedin.com/in/kvdomingo)
 - [HackerRank](https://www.hackerrank.com/kvdomingo)
