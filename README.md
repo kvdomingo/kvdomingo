@@ -14,7 +14,7 @@ For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
 [![Top Langs](https://github-readme-stats.kvdomingo.vercel.app/api/top-langs/?username=kvdomingo&hide=jupyter%20notebook,tex&langs_count=7&layout=compact)](https://github.com/kvdomingo/github-readme-stats)
 
-[![kvdomingo's wakatime stats](https://github-readme-stats.kvdomingo.vercel.app/api/wakatime?username=kvdomingo)](https://github.com/kvdomingo/github-readme-stats)
+[![kvdomingo's wakatime stats](https://github-readme-stats.kvdomingo.vercel.app/api/wakatime?username=kvdomingo&hide_progress=false)](https://github.com/kvdomingo/github-readme-stats)
 
 ---
 
