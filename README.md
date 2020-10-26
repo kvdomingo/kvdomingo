@@ -14,6 +14,8 @@ For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
 [![Top Langs](https://github-readme-stats.kvdomingo.vercel.app/api/top-langs/?username=kvdomingo&hide=jupyter%20notebook,tex&langs_count=7&layout=compact)](https://github.com/kvdomingo/github-readme-stats)
 
+![Wakatime stats](https://wakatime.com/share/@kvdomingo/11edf1aa-d63f-4497-88a1-5fa1e18b8f24.svg)
+
 ---
 
 [![Portfolio](https://img.shields.io/badge/portfolio-kvdomingo.xyz-black.svg?style=for-the-badge)](https://kvdomingo.xyz)
