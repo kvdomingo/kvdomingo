@@ -4,6 +4,7 @@
 
 I am a/an
 - 💻 software developer
+- 
 - ⚛ applied physicist
 - 📷 photographer
 - 🎸 musician
