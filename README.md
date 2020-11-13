@@ -4,7 +4,7 @@
 
 I am a/an
 - 💻 software developer
-- 
+- 📈 data analyst
 - ⚛ applied physicist
 - 📷 photographer
 - 🎸 musician
