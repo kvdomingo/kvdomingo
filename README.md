@@ -15,7 +15,7 @@ For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
 [![Top Langs](https://github-readme-stats.kvdomingo.vercel.app/api/top-langs/?username=kvdomingo&hide=jupyter%20notebook,tex&langs_count=7&layout=compact&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
 
-<img src="https://wakatime.com/share/@kvdomingo/5cca1ef9-518a-4ae5-9f45-a9aa1bdddee6.png" width="70%" />
+<img src="https://wakatime.com/share/@kvdomingo/ac384905-920f-45ae-8f64-4dc6156e22f1.png" />
 
 ---
 
