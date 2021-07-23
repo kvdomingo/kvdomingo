@@ -3,7 +3,7 @@
 # Hi, I'm Kenneth!
 
 I am a/an
-- 💻 software developer
+- 💻 software engineer
 - ☁️ cloud architect
 - 📈 data analyst
 - ⚛ applied physicist
