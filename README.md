@@ -4,6 +4,7 @@
 
 I am a/an
 - 💻 software developer
+- ☁️ cloud architect
 - 📈 data analyst
 - ⚛ applied physicist
 - 📷 photographer
