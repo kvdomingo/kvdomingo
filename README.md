@@ -18,6 +18,8 @@ For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
 <img src="https://wakatime.com/share/@kvdomingo/ac384905-920f-45ae-8f64-4dc6156e22f1.png" />
 
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35631642" />
+
 ---
 
 [![Portfolio](https://img.shields.io/badge/portfolio-kvdomingo.xyz-black.svg?style=for-the-badge)](https://kvdomingo.xyz)
