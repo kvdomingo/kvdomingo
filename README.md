@@ -12,13 +12,13 @@ I am a/an
 
 For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35631642" />
+
 [![Kenneth's github stats](https://github-readme-stats.kvdomingo.vercel.app/api?username=kvdomingo&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.kvdomingo.vercel.app/api/top-langs/?username=kvdomingo&hide=jupyter%20notebook,tex&langs_count=7&layout=compact&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
 
 <img src="https://wakatime.com/share/@kvdomingo/ac384905-920f-45ae-8f64-4dc6156e22f1.png" />
-
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35631642" />
 
 ---
 
