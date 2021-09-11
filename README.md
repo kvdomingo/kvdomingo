@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi, I'm Kenneth!</h1>
 
+<p align="center">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35631642" />
+</p>
+
 I am a/an
 - 💻 software engineer
 - ☁️ cloud architect
@@ -12,20 +16,19 @@ I am a/an
 
 For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35631642" />
-
 [![Kenneth's github stats](https://github-readme-stats.kvdomingo.vercel.app/api?username=kvdomingo&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.kvdomingo.vercel.app/api/top-langs/?username=kvdomingo&hide=jupyter%20notebook,tex&langs_count=7&layout=compact&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
 
 <img src="https://wakatime.com/share/@kvdomingo/ac384905-920f-45ae-8f64-4dc6156e22f1.png" />
 
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/586464416132759574.png" alt="Tito Boyet#0423" />
-</p>
-
 ---
 
 [![Portfolio](https://img.shields.io/badge/portfolio-kvdomingo.xyz-black.svg?style=for-the-badge)](https://kvdomingo.xyz)
 [![LinkedIn](https://img.shields.io/badge/linkedin-kvdomingo-informational.svg?style=for-the-badge)](https://linkedin.com/in/kvdomingo)
 [![HackerRank](https://img.shields.io/badge/hackerrank-kvdomingo-success.svg?style=for-the-badge)](https://www.hackerrank.com/kvdomingo)
+
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/586464416132759574.png" alt="Tito Boyet#0423" />
+</p>
