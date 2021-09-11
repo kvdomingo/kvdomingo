@@ -19,7 +19,7 @@ For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 [![Top Langs](https://github-readme-stats.kvdomingo.vercel.app/api/top-langs/?username=kvdomingo&hide=jupyter%20notebook,tex&langs_count=7&layout=compact&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/586464416132759574.png" alt="Tito Boyet#0423" />
+  <img src="https://discord.c99.nl/widget/theme-1/586464416132759574.png" alt="Tito Boyet#0423" />
 </p>
 
 <img src="https://wakatime.com/share/@kvdomingo/ac384905-920f-45ae-8f64-4dc6156e22f1.png" />
