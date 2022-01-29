@@ -16,9 +16,9 @@ I am a/an
 
 For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
 
-[![Kenneth's github stats](https://github-readme-stats.kvdstudio.app/api?username=kvdomingo&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
+[![Kenneth's github stats](https://github-readme-stats.kvdstudio.app/api?username=kvdomingo&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.kvdstudio.app/api/top-langs/?username=kvdomingo&hide=jupyter%20notebook,tex&langs_count=7&layout=compact&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.kvdstudio.app/api/top-langs/?username=kvdomingo&hide=jupyter%20notebook,tex&langs_count=7&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight)](https://github.com/kvdomingo/github-readme-stats)
 
 <img src="https://wakatime.com/share/@kvdomingo/ac384905-920f-45ae-8f64-4dc6156e22f1.png" />
 
