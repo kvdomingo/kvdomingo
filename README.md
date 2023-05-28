@@ -1,17 +1,25 @@
 ![Cover photo](https://res.cloudinary.com/kdphotography-assets/image/upload/c_fill,ar_2.39,r_6/v1/kdphotography/portfolio/static/portfolio/media-private/latest/20190407_1.jpg)
 
-<h1 align="center">Hi, I'm Kenneth!</h1>
+<h1>Hi, I'm Kenneth!</h1>
 
-I am a/an
+I am a
 - 💻 software engineer
 - ☁️ cloud architect
+
+When the need arises, I can also wear the hat of a:
+- 🤖 devops engineer
+- 📈 data engineer
+
+Outside of work, I am also a(n):
 - ⚛ applied physicist
+- 🖥️ homelabber
+- ⌨️🖱️ gamer
 - 📷 photographer
 - 🎸 musician
 
-For inquiries or collaborations, shoot me an email at hello@kvdomingo.xyz!
+For inquiries or collaborations, shoot me an email at hello@kvd.studio!
 
-[![Portfolio](https://img.shields.io/badge/portfolio-kvdomingo.xyz-black.svg?style=for-the-badge)](https://kvdomingo.xyz)
+[![Portfolio](https://img.shields.io/badge/portfolio-kvd.studio-black.svg?style=for-the-badge)](https://kvd.studio)
 [![LinkedIn](https://img.shields.io/badge/linkedin-kvdomingo-informational.svg?style=for-the-badge)](https://linkedin.com/in/kvdomingo)
 [![HackerRank](https://img.shields.io/badge/hackerrank-kvdomingo-success.svg?style=for-the-badge)](https://www.hackerrank.com/kvdomingo)
 
