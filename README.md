@@ -34,3 +34,5 @@ For inquiries or collaborations, shoot me an email at hello@kvd.studio!
 <img src="https://wakatime.com/share/@kvdomingo/ac384905-920f-45ae-8f64-4dc6156e22f1.png" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kvdomingo&theme=nord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kvdomingo/8d65909f-f4aa-436b-8f27-4033e1891510.png" /></a>
