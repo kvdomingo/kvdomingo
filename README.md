@@ -19,10 +19,6 @@ Outside of work, I am also a(n):
 
 For inquiries or collaborations, shoot me an email at hello@kvd.studio!
 
-[![Portfolio](https://img.shields.io/badge/portfolio-kvd.studio-black.svg?style=for-the-badge)](https://kvd.studio)
-[![LinkedIn](https://img.shields.io/badge/linkedin-kvdomingo-informational.svg?style=for-the-badge)](https://linkedin.com/in/kvdomingo)
-[![HackerRank](https://img.shields.io/badge/hackerrank-kvdomingo-success.svg?style=for-the-badge)](https://www.hackerrank.com/kvdomingo)
-
 <img src="https://discord.c99.nl/widget/theme-1/586464416132759574.png" alt="Tito Boyet#0423" />
 
 ---
