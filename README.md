@@ -2,12 +2,10 @@
 
 <h1>Hi, I'm Kenneth!</h1>
 
-I am a
-- 💻 software engineer
+On paper, my work responsibilities correspond to that of a 💻 software engineer. However, I like to be flexible, and when the need arises, I also wear the hat of a
 - ☁️ cloud architect
-
-When the need arises, I can also wear the hat of a:
-- 🤖 devops engineer
+- 🤖 AI engineer
+- 🗼 devops engineer
 - 📈 data engineer
 
 Outside of work, I am also a(n):
