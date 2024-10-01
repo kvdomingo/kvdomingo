@@ -19,7 +19,7 @@ Outside of work, I am also a(n):
 - ⌨️🖱️ gamer
 - ⚛ applied physicist
 
-For inquiries or collaborations, shoot me an email at hello@kvd.studio!
+For inquiries, collaborations, or consultations, shoot me an email at hello@kvd.studio!
 
 <img src="https://discord.c99.nl/widget/theme-1/586464416132759574.png" alt="Tito Boyet#0423" />
 
