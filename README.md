@@ -2,13 +2,16 @@
 
 <h1>Hi, I'm Kenneth!</h1>
 
-On paper, my work responsibilities correspond to that of a 💻 software engineer. However, I like to be flexible, and when the need arises, I also wear the hat of a
+On paper, my work responsibilities correspond to that of a 💻 software engineer. However, I don't like to be confined to
+a single role, so when the need arises, I also wear the hat of a
+
 - ☁️ cloud architect
 - 🤖 AI engineer
-- 🗼 devops engineer
+- 🗼 DevSecOps engineer
 - 📈 data engineer
 
 Outside of work, I am also a(n):
+
 - 📷 photographer
 - 🎸 musician
 - 🖥️ homelabber
