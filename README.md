@@ -5,10 +5,11 @@
 On paper, my work responsibilities correspond to that of a 💻 software engineer. However, I don't like to be confined to
 a single role, so when the need arises, I also wear the hat of a
 
-- ☁️ cloud architect
-- 🤖 AI engineer
 - 🗼 DevSecOps engineer
 - 📈 data engineer
+- ☁️ cloud architect
+- 🤖 AI engineer
+- 📈 analytics engineer
 
 Outside of work, I am also a(n):
 
