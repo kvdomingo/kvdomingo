@@ -21,8 +21,6 @@ Outside of work, I am also a(n):
 
 For inquiries, collaborations, or consultations, shoot me an email at hello@kvd.studio!
 
----
-
 ## 🚀 Tech Stack
 
 <table>
@@ -48,6 +46,7 @@ For inquiries, collaborations, or consultations, shoot me an email at hello@kvd.
       <img src="https://img.shields.io/badge/css3-1e1e2e?style=for-the-badge&logo=css3" alt="CSS" />
       <img src="https://img.shields.io/badge/javascript-1e1e2e?style=for-the-badge&logo=javascript" alt="JavaScript" />
       <img src="https://img.shields.io/badge/typescript-1e1e2e?style=for-the-badge&logo=typescript" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/webassembly-1e1e2e?style=for-the-badge&logo=webassembly" alt="WebAssembly" />
       <img src="https://img.shields.io/badge/react-1e1e2e?style=for-the-badge&logo=react" alt="React" />
       <img src="https://img.shields.io/badge/next.js-1e1e2e?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
       <img src="https://img.shields.io/badge/svelte-1e1e2e?style=for-the-badge&logo=svelte" alt="Svelte" />
@@ -89,6 +88,8 @@ For inquiries, collaborations, or consultations, shoot me an email at hello@kvd.
       <img src="https://img.shields.io/badge/AWS-1e1e2e?style=for-the-badge&logo=amazonwebservices" alt="Amazon Web Services" />
       <img src="https://img.shields.io/badge/Azure-1e1e2e?style=for-the-badge&logo=azure" alt="Microsoft Azure" />
       <img src="https://img.shields.io/badge/Vercel-1e1e2e?style=for-the-badge&logo=vercel" alt="Vercel" />
+      <img src="https://img.shields.io/badge/firebase-1e1e2e?style=for-the-badge&logo=firebase" alt="Firebase" />
+      <img src="https://img.shields.io/badge/supabase-1e1e2e?style=for-the-badge&logo=supabase" alt="Supabase" />
       <img src="https://img.shields.io/badge/cloudflare-1e1e2e?style=for-the-badge&logo=cloudflare" alt="Cloudflare" />
       <img src="https://img.shields.io/badge/digitalocean-1e1e2e?style=for-the-badge&logo=digitalocean" alt="DigitalOcean" />
       <img src="https://img.shields.io/badge/vultr-1e1e2e?style=for-the-badge&logo=vultr" alt="Vultr" />
@@ -157,7 +158,131 @@ For inquiries, collaborations, or consultations, shoot me an email at hello@kvd.
   </tr>
 </table>
 
-## Stats
+## 🏗 Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Stars</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/kvdomingo/primerdriver">PrimerDriver</a>
+      </td>
+      <td>
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kvdomingo/primerdriver?style=for-the-badge&labelColor=1e1e2e">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/flask-1e1e2e?style=for-the-badge&logo=flask" alt="Flask" />
+        <img src="https://img.shields.io/badge/javascript-1e1e2e?style=for-the-badge&logo=javascript" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/react-1e1e2e?style=for-the-badge&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/pandas-1e1e2e?style=for-the-badge&logo=pandas" alt="Pandas" />
+        <img src="https://img.shields.io/badge/numpy-1e1e2e?style=for-the-badge&logo=numpy" alt="NumPy" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/unicef/giga-data-ingestion">Giga DataOps Platform</a>
+      </td>
+      <td>
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/unicef/giga-data-ingestion?style=for-the-badge&labelColor=1e1e2e">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/fastapi-1e1e2e?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/pandas-1e1e2e?style=for-the-badge&logo=pandas" alt="Pandas" />
+        <img src="https://img.shields.io/badge/typescript-1e1e2e?style=for-the-badge&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/react-1e1e2e?style=for-the-badge&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/dagster-1e1e2e?style=for-the-badge&logo=dagster" alt="Dagster" />
+        <img src="https://img.shields.io/badge/spark-1e1e2e?style=for-the-badge&logo=apachespark" alt="Apache Spark" />
+        <img src="https://img.shields.io/badge/hive%20metastore-1e1e2e?style=for-the-badge&logo=apachehive" alt="Apache Hive" />
+        <img src="https://img.shields.io/badge/delta%20lake-1e1e2e?style=for-the-badge&logo=deltalake" alt="Delta Lake" />
+        <img src="https://img.shields.io/badge/azure%20data%20lake%20storage-1e1e2e?style=for-the-badge&logo=azure" alt="Azure Data Lake Storage Gen2" />
+        <img src="https://img.shields.io/badge/azure%20kubernetes%20service-1e1e2e?style=for-the-badge&logo=kubernetes" alt="Azure Kubernetes Service" />
+        <img src="https://img.shields.io/badge/helm-1e1e2e?style=for-the-badge&logo=helm" alt="Helm" />
+        <img src="https://img.shields.io/badge/azure%20devops-1e1e2e?style=for-the-badge&logo=azure" alt="Azure DevOps" />
+        <img src="https://img.shields.io/badge/trino-1e1e2e?style=for-the-badge&logo=trino" alt="Trino" />
+        <img src="https://img.shields.io/badge/datahub-1e1e2e?style=for-the-badge&logo=datahub" alt="Datahub" />
+        <img src="https://img.shields.io/badge/superset-1e1e2e?style=for-the-badge&logo=apachesuperset" alt="Apache Superset" />
+        <img src="https://img.shields.io/badge/prometheus-1e1e2e?style=for-the-badge&logo=prometheus" alt="Prometheus" />
+        <img src="https://img.shields.io/badge/grafana-1e1e2e?style=for-the-badge&logo=grafana" alt="Grafana" />
+        <img src="https://img.shields.io/badge/sentry-1e1e2e?style=for-the-badge&logo=sentry" alt="Sentry" />
+        <img src="https://img.shields.io/badge/postgresql-1e1e2e?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/redis-1e1e2e?style=for-the-badge&logo=redis" alt="Redis" />
+        <img src="https://img.shields.io/badge/elasticsearch-1e1e2e?style=for-the-badge&logo=elasticsearch" alt="ElasticSearch" />
+        <img src="https://img.shields.io/badge/graphql-1e1e2e?style=for-the-badge&logo=graphql" alt="GraphQL" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/kvdomingo/chaebot">Chaebot</a>
+      </td>
+      <td>
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kvdomingo/chaebot?style=for-the-badge&labelColor=1e1e2e">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/django-1e1e2e?style=for-the-badge&logo=django" alt="Django" />
+        <img src="https://img.shields.io/badge/javascript-1e1e2e?style=for-the-badge&logo=javascript" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/react-1e1e2e?style=for-the-badge&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/vercel-1e1e2e?style=for-the-badge&logo=vercel" alt="Vercel" />
+        <img src="https://img.shields.io/badge/discord%20api-1e1e2e?style=for-the-badge&logo=discord" alt="Discord API" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/kvdomingo/kengpt">KenGPT</a>
+      </td>
+      <td>
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kvdomingo/kengpt?style=for-the-badge&labelColor=1e1e2e">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/typescript-1e1e2e?style=for-the-badge&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/react-1e1e2e?style=for-the-badge&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/next.js-1e1e2e?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
+        <img src="https://img.shields.io/badge/vercel-1e1e2e?style=for-the-badge&logo=vercel" alt="Vercel" />
+        <img src="https://img.shields.io/badge/supabase-1e1e2e?style=for-the-badge&logo=supabase" alt="Supabase" />
+        <img src="https://img.shields.io/badge/openai-1e1e2e?style=for-the-badge&logo=openai" alt="OpenAI" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/kvdomingo/lsfm">LSFM</a>
+      </td>
+      <td>
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kvdomingo/lsfm?style=for-the-badge&labelColor=1e1e2e">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/typescript-1e1e2e?style=for-the-badge&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/react-1e1e2e?style=for-the-badge&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/webassembly-1e1e2e?style=for-the-badge&logo=webassembly" alt="WebAssembly" />
+        <img src="https://img.shields.io/badge/vercel-1e1e2e?style=for-the-badge&logo=vercel" alt="Vercel" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/kvdomingo/banyuhay">Banyuhay</a>
+      </td>
+      <td>
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kvdomingo/banyuhay?style=for-the-badge&labelColor=1e1e2e">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/python-1e1e2e?style=for-the-badge&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/fastapi-1e1e2e?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/typescript-1e1e2e?style=for-the-badge&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/sveltekit-1e1e2e?style=for-the-badge&logo=svelte" alt="SvelteKit" />
+        <img src="https://img.shields.io/badge/k8s-1e1e2e?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## 📊 Stats
 
 <img src="https://wakatime.com/share/@kvdomingo/ac384905-920f-45ae-8f64-4dc6156e22f1.png" />
 
