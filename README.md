@@ -154,6 +154,8 @@ For inquiries, collaborations, or consultations, shoot me an email at hello@kvd.
       <img src="https://img.shields.io/badge/pihole-1e1e2e?style=for-the-badge&logo=pihole" alt="Pi-hole" />
       <img src="https://img.shields.io/badge/portainer-1e1e2e?style=for-the-badge&logo=portainer" alt="Portainer" />
       <img src="https://img.shields.io/badge/let's%20encrypt-1e1e2e?style=for-the-badge&logo=letsencrypt" alt="Let's Encrypt" />
+      <img src="https://img.shields.io/badge/k3s-1e1e2e?style=for-the-badge&logo=k3s" alt="K3s" />
+      <img src="https://img.shields.io/badge/uptime%20kuma-1e1e2e?style=for-the-badge&logo=uptimekuma" alt="Uptime Kuma" />
     </td>
   </tr>
 </table>
