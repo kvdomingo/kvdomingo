@@ -2,11 +2,12 @@
 
 ## Hi, I'm Kenneth!
 
-On paper, my work responsibilities correspond to that of a 💻 software engineer. However, I don't like to be confined to
-a single role, so when the need arises, I also wear the hat of a
+On paper, my work responsibilities correspond to that of a 💻 software engineer.
+However, I don't like to be confined to a single role, so when the need arises,
+I also wear the hat of a
 
-- 🗼 DevSecOps engineer
 - 📈 data engineer
+- 🗼 DevSecOps engineer
 - ☁️ cloud architect
 - 🤖 AI engineer
 - 📈 analytics engineer
@@ -160,7 +161,7 @@ For inquiries, collaborations, or consultations, shoot me an email at hello@kvd.
   </tr>
 </table>
 
-## 🏗 Open-Source Projects
+## 🏗 Open-Source Contributions
 
 <table>
   <thead>
@@ -310,6 +311,19 @@ For inquiries, collaborations, or consultations, shoot me an email at hello@kvd.
         <img src="https://img.shields.io/badge/github%20actions-1e1e2e?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
       </td>
     </tr>
+  </tbody>
+</table>
+
+## 🚀 Personal Open-Source Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>
         <a href="https://github.com/kvdomingo/hannibot">HanniBot</a>
@@ -344,19 +358,6 @@ For inquiries, collaborations, or consultations, shoot me an email at hello@kvd.
         <img src="https://img.shields.io/badge/kubernetes-1e1e2e?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
         <img src="https://img.shields.io/badge/helm-1e1e2e?style=for-the-badge&logo=helm" alt="Helm" />
         <img src="https://img.shields.io/badge/gitea%20actions-1e1e2e?style=for-the-badge&logo=githubactions" alt="Gitea Actions" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/kvdomingo/kengpt">KenGPT</a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/typescript-1e1e2e?style=for-the-badge&logo=typescript" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/react-1e1e2e?style=for-the-badge&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/next.js-1e1e2e?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
-        <img src="https://img.shields.io/badge/vercel-1e1e2e?style=for-the-badge&logo=vercel" alt="Vercel" />
-        <img src="https://img.shields.io/badge/supabase-1e1e2e?style=for-the-badge&logo=supabase" alt="Supabase" />
-        <img src="https://img.shields.io/badge/openai-1e1e2e?style=for-the-badge&logo=openai" alt="OpenAI" />
       </td>
     </tr>
     <tr>
